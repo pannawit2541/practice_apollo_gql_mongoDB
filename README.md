@@ -1,1 +1,0 @@
-# practice_apollo_gql_mongoDB
